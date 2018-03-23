@@ -203,7 +203,7 @@ public class NovoJFrame extends javax.swing.JFrame {
        painel.add(iu);
        iu.setVisible(true);
        iu.setPosicao();
-       //aa
+       //aaa
     }//GEN-LAST:event_jMenuItem1ActionPerformed
 
     private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
